@@ -29,7 +29,7 @@
 **The setup is done!**
 
 `Launch`
-* cd bomber
+* cd Spam_Bomber
 * python3 BoMbEr.py
 
 # 📌 Discord spammer
