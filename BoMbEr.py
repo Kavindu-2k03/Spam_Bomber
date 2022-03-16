@@ -57,7 +57,7 @@ else:
 
 import time
 import json
-import emoji
+
 import random
 import shutil
 import socket
